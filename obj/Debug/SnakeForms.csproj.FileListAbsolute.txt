@@ -1,0 +1,10 @@
+C:\Users\meskaoui.22050\source\repos\SnakeForms\bin\Debug\SnakeForms.exe.config
+C:\Users\meskaoui.22050\source\repos\SnakeForms\bin\Debug\SnakeForms.exe
+C:\Users\meskaoui.22050\source\repos\SnakeForms\bin\Debug\SnakeForms.pdb
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.csproj.AssemblyReference.cache
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.Form1.resources
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.Properties.Resources.resources
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.csproj.GenerateResource.cache
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.csproj.CoreCompileInputs.cache
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.exe
+C:\Users\meskaoui.22050\source\repos\SnakeForms\obj\Debug\SnakeForms.pdb
